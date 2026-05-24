@@ -5,5 +5,5 @@ Feature: Cart Test Cases
   Scenario: User sees empty cart message
     Given Open Target main page
     When Click on cart icon
-    Then Verify cart is empty message is showncenario: # Enter scenario name here
+    Then Verify cart is empty message is shown
     # Enter steps here
